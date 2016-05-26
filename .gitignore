@@ -1,0 +1,34 @@
+# package
+*.jar
+
+# eclipse
+.classpath
+.project
+.metadata/
+.settings/
+.recommenders/
+.factorypath
+bin/
+
+# (no) idea
+.idea
+*.iml
+*.ipr
+*.iws
+out/
+
+# gradle
+.gradle/
+build/
+!/gradle/wrapper/gradle-wrapper.jar
+
+# custom
+.build/
+.test
+c2s/
+s2c/
+
+# running stuff
+/run/
+
+/.apt_generated/
