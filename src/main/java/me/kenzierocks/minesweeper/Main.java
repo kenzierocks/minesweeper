@@ -1,8 +1,6 @@
 package me.kenzierocks.minesweeper;
 
-import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Dialog.ModalityType;
 import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Graphics;
@@ -12,9 +10,7 @@ import java.io.InputStream;
 import java.util.Arrays;
 import java.util.Random;
 
-import javax.swing.JDialog;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
